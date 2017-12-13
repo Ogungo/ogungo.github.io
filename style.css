@@ -1,0 +1,354 @@
+body, html {
+  height: 100%;
+}
+
+#right {
+  height: 100%;
+}
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+    width: 100px;
+    position: absolute;
+    top: 76px;
+}
+.welcome,.juice{
+      margin-top: 24%;
+}
+
+ .home{
+    background-image: url(image/fru.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+        min-height: 709px;
+
+ }
+.container {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+.ls-responsive .liquid-slider {
+    width: 100%;
+    margin: 0;
+   /* height: 100% !important;*/
+}
+.form-group_a {
+    display: block;
+    width: 69%;
+  }
+    h1{
+      color: red;
+      margin-left:388px;
+    }
+    .row3 {
+      color:#f9fafa;
+         margin-left: 154px;
+          margin-top: 162px;
+    }
+
+.row2 .col-md-12 h2{
+    font-size: 2rem;
+    margin-top: -1%;
+    margin-left: 128px;
+    color: white;
+}
+.row3 h3{  
+    font-size: 2.75rem;
+    margin-top: -91%;
+    margin-left: -50%;
+    color: red;
+  }
+.form-group{
+     margin-bottom: 1rem;
+    width: 60%;
+    margin-top: -18%;
+    margin-left: -12%;
+}
+.row3 button{
+    margin-left: 190%;
+    margin-top: -109%;
+    color:#dc291e
+}
+.navigation h2{
+      font-size: 2rem;
+    margin-left: -32%;
+    color:#4e5050
+}
+.content h3{
+   font-size: 1.75rem;
+    margin-top: 9%;
+    width: 86%;
+    margin-left: 14%;
+    color:#4e5050
+}
+.col-md-6 {
+    margin-left: 68%;
+  }
+  .navigation .col-md-6{
+        margin-left: 40%;
+  }
+  .copy{
+    margin-left: -104px;
+  }
+
+/*about*/
+.navigation2 .col-md-10 h2{
+       font-size: 117%;
+    width: 74%;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.about .home{
+  background-image: none;
+  background-color: white;
+}
+    h1{
+      color: red;
+      margin-left:388px;
+    }
+    .row3 {
+      color:#f9fafa;
+         margin-left: 154px;
+          margin-top: 162px;
+    }
+.form-group{
+     margin-bottom: 1rem;
+    width: 60%;
+    margin-top: -18%;
+    margin-left: -12%;
+}
+.row3 button{
+    margin-left: 190%;
+    margin-top: -109%;
+    color:#dc291e
+}
+.content .col-md-12 h3{
+       font-size: 1.75rem;
+    margin-top: 4%;
+    width: 61%;
+    margin-left: 18%;
+    color: #4e5050
+}
+.img-circle {
+   margin-left: 30%;
+    margin-top: -20%;
+}
+.col-md-8{
+  margin-left: 4%;
+  width: 66%;
+}
+ .copy{
+    margin-left: -104px;
+  }
+
+    /*services*/
+    .row2 .col-md-12 h6{
+        margin-top: -26%;
+    font-size: 21px;
+    margin-left: 26%;
+    color: white;
+    }
+    .service .home{
+       background-image: url(image/yam.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+        min-height: 709px;
+    }
+
+.footer{
+ /* height:200px;*/
+  background-color:#1b807d;
+}
+    h1{
+      color: red;
+      margin-left:388px;
+    }
+    .row3 {
+      color:#f9fafa;
+         margin-left: 154px;
+          margin-top: 162px;
+    }
+
+.row2 h2{
+    font-size: 2rem;
+    margin-top: 195px;
+    margin-left: 128px;
+    color: white;
+}
+.row3 h3{  
+    font-size: 2.75rem;
+    margin-top: -91%;
+    margin-left: -50%;
+    color: red;
+  }
+.form-group{
+     margin-bottom: 1rem;
+    width: 60%;
+    margin-top: -18%;
+    margin-left: -12%;
+}
+.row3 button{
+    margin-left: 190%;
+    margin-top: -109%;
+    color:#dc291e
+}
+.navigation3 .col-md-6 h2{
+         font-size: 20px;
+    margin-left: -69%
+}
+
+.content .col-md-6 h4{
+      margin-top: -78%;
+    width: 84%;
+    margin-left: -128%;
+}
+.content .col-md-12 p{
+      width: 50%;
+    margin-top: -18%;
+    margin-left: 20%;
+    background-color: white;
+  }
+   .copy{
+    margin-left: -104px;
+  }
+
+   /*products*/
+   .products .home {
+       background-image: none;
+    background-color: white;
+     }
+
+.footer{
+ /* height:200px;*/
+  background-color:#1b807d;
+}
+    h1{
+      color: red;
+      margin-left:388px;
+    }
+    .row3 {
+      color:#f9fafa;
+         margin-left: 154px;
+          margin-top: 162px;
+    }
+
+    .navigation img{
+       margin-left: -123px;
+
+    }
+
+.row2 h2{
+    font-size: 2rem;
+    margin-top: 195px;
+    margin-left: 128px;
+    color: white;
+}
+.row3 h3{  
+    font-size: 2.75rem;
+    margin-top: -91%;
+    margin-left: -50%;
+    color: red;
+  }
+.form-group{
+     margin-bottom: 1rem;
+    width: 60%;
+    margin-top: -18%;
+    margin-left: -12%;
+}
+.row3 button{
+    margin-left: 190%;
+    margin-top: -109%;
+    color:#dc291e
+}
+.navigation h2{
+      font-size: 2rem;
+    margin-left: -32%;
+    color:#4e5050
+}
+.content h3{
+   font-size: 1.75rem;
+    margin-top: 9%;
+    width: 86%;
+    margin-left: 14%;
+    color:#4e5050
+}
+.content .col-md-6 h2{
+          margin-left: 26%;
+    margin-top: -16%;
+    color: red;
+}
+.row3 .col-md-12 h2{
+     margin-left: 20%;
+    margin-top: -12%;
+    color: red;
+}
+.navigation .col-md-8{
+      margin-left: -140%;
+    width: 99%
+}
+.welcome .img.img-circle{
+  margin-left: 28%;
+    margin-top: -26%;
+}
+ .copy{
+    margin-left: -104px;
+  }
+  .number{
+        margin-left: -122%;
+    font-size: 20px;
+  }
+  
+      /*contact*/
+   .body{
+  background-color:white;
+  background-size: 100%;
+   /* height: 600px; */
+}
+
+.footer{
+  /*height:200px;*/
+  background-color:#1b807d;
+}
+    h1{
+      color: red;
+      margin-left:388px;
+    }
+  
+
+    .navigation {
+          margin-left: 67%;
+
+    }
+
+.form-group2 .col-md-8{
+      margin-left: 63%;
+    width: 283px;
+}
+.navigation .form-group1{
+       margin-left: 86%;
+    width: 255px;
+    
+}
+.col-md-12 .form-group2{
+      margin-left: 68%;
+    width: 260px;
+    margin-top: -23%;
+}
+.col-md-12 .form-group5{
+       margin-top: -38%;
+    width: 252px;
+    margin-left: 62%;
+    color: black;
+  }
+.col-md-12 .form-group6{
+        margin-top: -42%;
+    width: 24%;
+    margin-left: 69%;
+}
+  .copy{
+    margin-left: -104px;
+  }
+
